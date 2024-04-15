@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "536002452385",
+    "firebase_url": "https://fir-class01-dab97-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-class01-dab97",
+    "storage_bucket": "fir-class01-dab97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536002452385:android:262ec67b13dd6a1aa309e0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5csbYnqAojZY_yExzRhllVFggaYemg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
